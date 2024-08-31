@@ -6,7 +6,7 @@ This is a PowerShell repositary, with this powershell, any one can generate the 
 
 ## How to use this
 
-1. Download the [get_hash](https://github.com/raviindia/get_hash/tree/main) repo from the github.
+1. Download the [Get-Hash](https://github.com/dailylifeassysadmin/Get-Hash.git) repo from the github.
 2. Unzip it.
 3. Copy the Get-FileHash folder anywhere you like.
 4. Open the get-FileHash folder.
